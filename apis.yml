@@ -1,4 +1,6 @@
 aid: insight-enterprises
+tags:
+  - Fortune 500
 url: 
   https://raw.githubusercontent.com/api-evangelist/insight-enterprises/refs/heads/main/apis.yml
 modified: '2026-04-28'
