@@ -1,4 +1,5 @@
 aid: insight-enterprises
+name: "Insight Enterprises"
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
