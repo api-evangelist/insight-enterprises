@@ -1,7 +1,9 @@
 ---
 title: Insight is now one of three Stripe launch partners ...
 url: https://www.facebook.com/InsightEnterprisesInc/posts/insight-is-now-one-of-three-stripe-launch-partners-of-the-agentic-commerce-proto/1339357704885298/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Insight Enterprises" press release artificial intelligence'
 position: 5
 source: serpapi-google
